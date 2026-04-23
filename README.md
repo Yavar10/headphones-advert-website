@@ -6,6 +6,9 @@ A modern, responsive, and visually striking landing page built for the fictional
 
 The project leverages Framer Motion to provide buttery-smooth, scroll-linked animations that guide the user through the narrative of the product.
 
+## Deployment Link
+https://headphones-advert-website.vercel.app
+
 ## ✨ Features
 
 - **Dynamic Scroll Animations:** Elements react naturally to scroll depth using `framer-motion` (`useScroll`, `useTransform`).
@@ -28,18 +31,6 @@ The project leverages Framer Motion to provide buttery-smooth, scroll-linked ani
 - **Animations:** Framer Motion
 - **Icons:** Lucide React
 - **Styling:** Custom Vanilla CSS (`index.css`)
-
-## 🚀 Getting Started
-
-### Prerequisites
-Make sure you have Node.js installed on your machine.
-
-### Installation
-
-1. cd intern
-2. npm install
-3. npm run dev
-4. Open http://localhost:5173
 
 ## 🎨 Design Decisions
 
